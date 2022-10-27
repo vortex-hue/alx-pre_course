@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+/**
+* Main - practical usage of the getchar() and putchar() functions
+* Reutrn - 0
+*
+*/
+
+int main()
+{
+	char n1, n2, n3, n4, n5;
+	printf("Enter your name: ");
+	n1MMMMMMMMMMMMMMMMMMMMMMMMMMMM=getchar();
+	printf("You are not John, your name is ");
+	putchar(name);
+
+	return 0;
+}

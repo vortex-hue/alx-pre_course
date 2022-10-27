@@ -1,0 +1,10 @@
+Welcome to my world of C programming
+This directory is going to be all about geting started with advanced programming using C language,
+am making this repo dir so as to keep track of all my progress and keep track.
+
+In this directory, i will be uploading files relating to C data structures, arrays,
+pointers and so on.
+This directory is only going to be on my codes relating to C data types,
+both primitive and user defined.
+
+1. in the c program saved as get_putchar.c, i literally created a simple code that would use the default getchar and putchar functions, rather than just using 
